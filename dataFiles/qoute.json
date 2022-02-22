@@ -1,0 +1,10 @@
+{
+  "quote": "A123",
+  "status": "Active"
+}, {
+  "quote": "A871",
+  "status": "Purged"
+}, {
+  "quote": "B002",
+  "status": "Inactive"
+}
